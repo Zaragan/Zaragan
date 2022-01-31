@@ -1,4 +1,4 @@
-# Bienvenido! | Wellcome!
+# Bienvenido! | Welcome!
 Me llamo Erik y estoy aprendiendo programación. Sobre el 2009 empecé a colaborar en un proyecto clon del juego online llamado Ogame, en él me interesé por la programación y el php. Gracias a ese proyecto adquirí conocimientos muy básicos que me han ayudado a comprender los lenguajes.
 
 Sobre el 2019 decidí reorientar mi carrera y esfuerzos así que me puse las pilas y empecé desde 0 con html, css, js... Continuando con pequeños cursos online sobre php y hace poco un curso presencial sobre Java. Poco a poco voy aprendiendo todo lo que puedo por mi cuenta. 
