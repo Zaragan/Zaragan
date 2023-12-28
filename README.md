@@ -5,7 +5,7 @@ Sobre el 2019 decidí reorientar mi carrera y esfuerzos así que me puse las pil
 
 Hasta ahora siempre borraba mis pequeños proyectos y hace muy poco que he empezado a subirlos para darme a conocer.
 
-Estudio y trabajo a tiempo completo así que son 14 horas al día que estoy ocupado! ¡Avanzo lento pero a paso seguro!
+Estudio y trabajo a tiempo completo así que estoy ocupado! ¡Avanzo lento pero a paso seguro!
 ## Contactame
 * [<img align="left" alt="Sitio Web" height="22px" src="./Sociales/Web.png" />][website]¡Visita mi página web para saber más sobre mí o curiosea por mis repositorios!
 * [<img align="left" alt="Correo" height="22px" src="./Sociales/Gmail.png" />][gmail]¡Envíame un correo si deseas contactar conmigo!
